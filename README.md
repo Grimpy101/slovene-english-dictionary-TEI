@@ -8,6 +8,10 @@ The project's main content files are stored inside ``xml`` folder. Inside, there
 
 ## XML file structure
 
+The text below is more of a "crash course" and not really that detailed or accurate. If one wishes to know much more about the way TEI files are structured, I suggest this documentation: <https://dariah-eric.github.io/lexicalresources/pages/TEILex0/TEILex0.html#collocates>. Alternatively, FreeDict project has a Wiki that explains a few things as well: <https://github.com/freedict/fd-dictionaries/wiki>.
+
+NOTE: The values and types I mention below are my own restriction. The list can extend and change.
+
 Each XML file contains entries, which represent information on words and phrases. This is not really a TEI structure yet, since it's missing some information, but this would be added later programmatically.
 
 In XML and similar languages for storing information, data is wrapped in tags. These can also have attributes that define additional information. Tags can contain plain-text data and/or other tags, which have their own data.
@@ -195,3 +199,7 @@ Types of **usage**:
     </sense>
 </entry>
 ```
+
+## Contributions
+
+They are welcome. If you wish to contribute, go to FreeDict, read about it, then subscribe to the FreeDict mailing list <https://www.freelists.org/list/freedict>. Ask to help with Slovene language and we'll go from there :)
