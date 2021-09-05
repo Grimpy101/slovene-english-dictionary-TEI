@@ -2,6 +2,8 @@
 
 This is an attempt at a Slovene-English dictionary, intended for FreeDict project and other similar uses.
 
+**NOTE: This is still heavily in development. I have yet to create a piece of code to convert current XML files to TEI dictionary.**
+
 ## Project structure
 
 The project's main content files are stored inside ``xml`` folder. Inside, there are multiple files, each representing one section of the dictionary - for example, in ``slv_eng-a.xml`` there are all entries that start with the letter "a", etc. The files are written in TEI format, but are of the type XML for ease of use and editing.
@@ -202,4 +204,4 @@ Types of **usage**:
 
 ## Contributions
 
-They are welcome. If you wish to contribute, go to FreeDict, read about it, then subscribe to the FreeDict mailing list <https://www.freelists.org/list/freedict>. Ask to help with Slovene language and we'll go from there :)
+They are welcome. If you wish to contribute code, do so in a classic GitHub way (admittedly I myself am not familiar with this) or write an Issue about it and I'll do what I can to make things work. If you wish to contribute content/work on the dictionary, go to FreeDict, read about it, then subscribe to the FreeDict mailing list <https://www.freelists.org/list/freedict>. Ask to help with Slovene language and we'll go from there :)
