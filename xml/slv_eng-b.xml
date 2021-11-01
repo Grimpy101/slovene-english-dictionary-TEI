@@ -6440,6 +6440,9 @@
     <form type="lemma">
         <orth>baretka</orth>
     </form>
+    <form type="variant">
+        <orth>beretka</orth>
+    </form>
     <gramGrp>
         <gram type="pos">n.</gram>
         <gram type="gender">f.</gram>
@@ -11642,487 +11645,1148 @@
         </cit>
     </sense>
 </entry>
-<entry xml:id="">
+<entry xml:id="benediktinec">
     <form type="lemma">
-        <orth></orth>
+        <orth>benediktinec</orth>
     </form>
     <gramGrp>
-        <gram type="pos">.</gram>
-        <gram type="gender">.</gram>
+        <gram type="pos">n.</gram>
+        <gram type="gender">m.</gram>
         <gram type="number">sg.</gram>
     </gramGrp>
-    <sense xml:id=".1">
-        <usg type="dom"></usg>
+    <sense xml:id="benediktinec.1">
+        <usg type="dom">Rel.</usg>
         <cit type="trans">
-            <quote></quote>
+            <quote>Benedictine</quote>
+        </cit>
+    </sense>
+    <sense xml:id="benediktinec.2">
+        <cit type="trans">
+            <quote>Bénédictine (liqueur)</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="benediktinka">
+    <form type="lemma">
+        <orth>benediktinka</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">n.</gram>
+        <gram type="gender">f.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="benediktinka.1">
+        <usg type="dom">Rel.</usg>
+        <cit type="trans">
+            <quote>Benedictine</quote>
+        </cit>
+    </sense>
+    <sense xml:id="benediktinka.2">
+        <cit type="trans">
+            <quote>Cnicus benedictus</quote>
+            <quote>blessed thistle</quote>
+            <quote>holy thistle</quote>
+            <quote>spotted thistle</quote>
+            <quote>St. Benedict's thistle</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="benediktinski">
+    <form type="lemma">
+        <orth>benediktinski</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">adj.</gram>
+        <gram type="gender">m.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="benediktinski.1">
+        <cit type="trans">
+            <quote>Benedictine</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="beneficij">
+    <form type="lemma">
+        <orth>beneficij</orth>
+    </form>
+    <form type="variant">
+        <orth>beneficija</orth>
+        <gramGrp>
+            <gram type="gender">f.</gram>
+        </gramGrp>
+    </form>
+    <gramGrp>
+        <gram type="pos">n.</gram>
+        <gram type="gender">m.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="beneficij.1">
+        <usg type="dom">Rel.</usg>
+        <cit type="trans">
+            <quote>Benefice</quote>
+        </cit>
+    </sense>
+    <sense xml:id="beneficij.2">
+        <usg type="style">lit.</usg>
+        <cit type="trans">
+            <quote>benefit</quote>
+            <quote>advantage</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="beneficirati">
+    <form type="lemma">
+        <orth>beneficirati</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">v.</gram>
+    </gramGrp>
+    <sense xml:id="beneficirati.1">
+        <usg type="dom">Law</usg>
+        <cit type="trans">
+            <quote>to provide a benefit</quote>
         </cit>
         <cit type="example">
-            <quote></quote>
+            <quote>beneficirati delovno dobo</quote>
             <cit type="trans">
-                <quote></quote>
+                <quote>to award added years of service</quote>
             </cit>
         </cit>
     </sense>
 </entry>
-<entry xml:id="">
+<entry xml:id="beneski">
     <form type="lemma">
-        <orth></orth>
+        <orth>beneški</orth>
     </form>
     <gramGrp>
-        <gram type="pos">.</gram>
-        <gram type="gender">.</gram>
+        <gram type="pos">adj.</gram>
+        <gram type="gender">m.</gram>
         <gram type="number">sg.</gram>
     </gramGrp>
-    <sense xml:id=".1">
-        <usg type="dom"></usg>
+    <sense xml:id="beneski.1">
         <cit type="trans">
-            <quote></quote>
+            <quote>Venetian</quote>
         </cit>
         <cit type="example">
-            <quote></quote>
+            <quote>beneški karneval</quote>
             <cit type="trans">
-                <quote></quote>
+                <quote>The Carnival of Venice</quote>
+            </cit>
+        </cit>
+        <cit type="example">
+            <quote>beneški jarmenik</quote>
+            <cit type="trans">
+                <quote>Venetian saw</quote>
             </cit>
         </cit>
     </sense>
 </entry>
-<entry xml:id="">
+<entry xml:id="benetke">
     <form type="lemma">
-        <orth></orth>
+        <orth>Benetke</orth>
     </form>
     <gramGrp>
-        <gram type="pos">.</gram>
-        <gram type="gender">.</gram>
+        <gram type="pos">n.</gram>
+        <gram type="gender">f.</gram>
+        <gram type="number">pl.</gram>
+    </gramGrp>
+    <sense xml:id="benetke.1">
+        <cit type="trans">
+            <quote>Venice</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="bengalicen">
+    <form type="lemma">
+        <orth>bengaličen</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">adj.</gram>
+        <gram type="gender">m.</gram>
         <gram type="number">sg.</gram>
     </gramGrp>
-    <sense xml:id=".1">
-        <usg type="dom"></usg>
-        <cit type="trans">
-            <quote></quote>
-        </cit>
+    <sense xml:id="bengalicen.1">
         <cit type="example">
-            <quote></quote>
+            <quote>bengalični ogenj</quote>
             <cit type="trans">
-                <quote></quote>
+                <quote>colourful fireworks</quote>
             </cit>
         </cit>
     </sense>
 </entry>
-<entry xml:id="">
+<entry xml:id="bengalin">
     <form type="lemma">
-        <orth></orth>
+        <orth>bengalin</orth>
     </form>
     <gramGrp>
-        <gram type="pos">.</gram>
-        <gram type="gender">.</gram>
+        <gram type="pos">n.</gram>
+        <gram type="gender">m.</gram>
         <gram type="number">sg.</gram>
     </gramGrp>
-    <sense xml:id=".1">
-        <usg type="dom"></usg>
+    <sense xml:id="bengalin.1">
+        <usg type="dom">Text.</usg>
         <cit type="trans">
-            <quote></quote>
+            <quote>bengaline</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="bengalski">
+    <form type="lemma">
+        <orth>bengalski</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">adj.</gram>
+        <gram type="gender">m.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="bengalski.1">
+        <cit type="trans">
+            <quote>Bengal</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="benigen">
+    <form type="lemma">
+        <orth>benigen</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">adj.</gram>
+        <gram type="gender">m.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="benigen.1">
+        <usg type="dom">Med.</usg>
+        <cit type="trans">
+            <quote>benign</quote>
+            <quote>harmless</quote>
         </cit>
         <cit type="example">
-            <quote></quote>
+            <quote>benigni tumor</quote>
             <cit type="trans">
-                <quote></quote>
+                <quote>benign tumor</quote>
             </cit>
         </cit>
     </sense>
 </entry>
-<entry xml:id="">
+<entry xml:id="benjamin">
     <form type="lemma">
-        <orth></orth>
+        <orth>benjamin</orth>
     </form>
     <gramGrp>
-        <gram type="pos">.</gram>
-        <gram type="gender">.</gram>
+        <gram type="pos">n.</gram>
+        <gram type="gender">m.</gram>
         <gram type="number">sg.</gram>
     </gramGrp>
-    <sense xml:id=".1">
-        <usg type="dom"></usg>
+    <sense xml:id="benjamin.1">
         <cit type="trans">
-            <quote></quote>
+            <def>The youngest person in the group.</def>
         </cit>
         <cit type="example">
-            <quote></quote>
+            <quote>Natoči, benjamin!</quote>
             <cit type="trans">
-                <quote></quote>
+                <quote>Pour me some, young one!</quote>
             </cit>
         </cit>
     </sense>
 </entry>
-<entry xml:id="">
+<entry xml:id="bental">
     <form type="lemma">
-        <orth></orth>
+        <orth>bental</orth>
     </form>
     <gramGrp>
-        <gram type="pos">.</gram>
-        <gram type="gender">.</gram>
+        <gram type="pos">n.</gram>
+        <gram type="gender">m.</gram>
         <gram type="number">sg.</gram>
     </gramGrp>
-    <sense xml:id=".1">
-        <usg type="dom"></usg>
+    <sense xml:id="bental.1">
+        <usg type="dom">Biol.</usg>
         <cit type="trans">
-            <quote></quote>
+            <quote>benthic zone</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="bentiti">
+    <form type="lemma">
+        <orth>bentiti</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">v.</gram>
+    </gramGrp>
+    <sense xml:id="bentiti.1">
+        <cit type="trans">
+            <quote>to fume</quote>
+            <quote>to grounch</quote>
+            <quote>to grumble</quote>
+            <quote>to swear</quote>
+            <quote>to cuss</quote>
         </cit>
         <cit type="example">
-            <quote></quote>
+            <quote>Benti nad sinom.</quote>
             <cit type="trans">
-                <quote></quote>
+                <quote>He is fuming at his son.</quote>
             </cit>
         </cit>
     </sense>
 </entry>
-<entry xml:id="">
+<entry xml:id="bentos">
     <form type="lemma">
-        <orth></orth>
+        <orth>bentos</orth>
     </form>
     <gramGrp>
-        <gram type="pos">.</gram>
-        <gram type="gender">.</gram>
+        <gram type="pos">n.</gram>
+        <gram type="gender">m.</gram>
         <gram type="number">sg.</gram>
     </gramGrp>
-    <sense xml:id=".1">
-        <usg type="dom"></usg>
+    <sense xml:id="bentos.1">
+        <usg type="dom">Biol.</usg>
         <cit type="trans">
-            <quote></quote>
+            <quote>benthos</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="bera">
+    <form type="lemma">
+        <orth>bera</orth>
+    </form>
+    <form type="variant">
+        <orth>bira</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">n.</gram>
+        <gram type="gender">f.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="bera.1">
+        <cit type="trans">
+            <quote>collection</quote>
+            <quote>harvest</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="berac.1">
+    <form type="lemma">
+        <orth>berač</orth>
+    </form>
+    <form type="variant">
+        <orth>beračica</orth>
+        <gramGrp>
+            <gram type="gender">f.</gram>
+        </gramGrp>
+    </form>
+    <gramGrp>
+        <gram type="pos">n.</gram>
+        <gram type="gender">m.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="berac.1.1">
+        <cit type="trans">
+            <quote>beggar</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="berac.2">
+    <form type="lemma">
+        <orth>berač</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">n.</gram>
+        <gram type="gender">m.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="berac.2.1">
+        <usg type="geo">dial.</usg>
+        <cit type="trans">
+            <quote>grape picker</quote>
+        </cit>
+    </sense>
+    <sense xml:id="berac.2.2">
+        <usg type="geo">dial.</usg>
+        <cit type="trans">
+            <quote>basket</quote>
+            <quote>bin</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="beracija">
+    <form type="lemma">
+        <orth>beračija</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">n.</gram>
+        <gram type="gender">f.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="beracija.1">
+        <cit type="trans">
+            <quote>beggary</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="beraciti">
+    <form type="lemma">
+        <orth>beračiti</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">v.</gram>
+    </gramGrp>
+    <sense xml:id="beraciti.1">
+        <cit type="trans">
+            <quote>to beg</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="beraski">
+    <form type="lemma">
+        <orth>beraški</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">adj.</gram>
+        <gram type="gender">m.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="beraski.1">
+        <cit type="trans">
+            <quote>beggarly</quote>
         </cit>
         <cit type="example">
-            <quote></quote>
+            <quote>beraška palica</quote>
             <cit type="trans">
-                <quote></quote>
+                <quote>beggar's staff</quote>
+            </cit>
+        </cit>
+        <cit type="example">
+            <quote>priti na beraško palico</quote>
+            <cit type="trans">
+                <quote>to be reduced to poverty</quote>
             </cit>
         </cit>
     </sense>
 </entry>
-<entry xml:id="">
+<entry xml:id="berastvo">
     <form type="lemma">
-        <orth></orth>
+        <orth>beraštvo</orth>
     </form>
     <gramGrp>
-        <gram type="pos">.</gram>
-        <gram type="gender">.</gram>
+        <gram type="pos">n.</gram>
+        <gram type="gender">n.</gram>
         <gram type="number">sg.</gram>
     </gramGrp>
-    <sense xml:id=".1">
-        <usg type="dom"></usg>
+    <sense xml:id="berastvo.1">
         <cit type="trans">
-            <quote></quote>
+            <quote>extreme poverty</quote>
         </cit>
+    </sense>
+</entry>
+<entry xml:id="berberec">
+    <form type="lemma">
+        <orth>berberec</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">n.</gram>
+        <gram type="gender">m.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="berberec.1">
+        <usg type="dom">Vet.</usg>
+        <cit type="trans">
+            <quote>Barb horse</quote>
+            <quote>Berber horse</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="berda">
+    <form type="lemma">
+        <orth>berda</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">n.</gram>
+        <gram type="gender">f.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="berda.1">
+        <usg type="dom">Mus.</usg>
+        <cit type="trans">
+            <quote>berda</quote>
+            <quote>bas</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="berek">
+    <form type="lemma">
+        <orth>berek</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">n.</gram>
+        <gram type="gender">m.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="berek.1">
+        <usg type="geo">dial.</usg>
+        <cit type="trans">
+            <quote>old marsh</quote>
+            <quote>former river-bed</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="bereta">
+    <form type="lemma">
+        <orth>bereta</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">n.</gram>
+        <gram type="gender">f.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="bereta.1">
+        <cit type="trans">
+            <quote>Beretta gun</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="bergamoten">
+    <form type="lemma">
+        <orth>bergamoten</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">adj.</gram>
+        <gram type="gender">m.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="bergamoten.1">
         <cit type="example">
-            <quote></quote>
+            <quote>bergamotno olje</quote>
             <cit type="trans">
-                <quote></quote>
+                <quote>bergamot oil</quote>
             </cit>
         </cit>
     </sense>
 </entry>
-<entry xml:id="">
+<entry xml:id="bergamotka">
     <form type="lemma">
-        <orth></orth>
+        <orth>bergamotka</orth>
     </form>
     <gramGrp>
-        <gram type="pos">.</gram>
-        <gram type="gender">.</gram>
+        <gram type="pos">n.</gram>
+        <gram type="gender">f.</gram>
         <gram type="number">sg.</gram>
     </gramGrp>
-    <sense xml:id=".1">
-        <usg type="dom"></usg>
+    <sense xml:id="bergamotka.1">
         <cit type="trans">
-            <quote></quote>
+            <quote>Bergamot pear</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="bergla">
+    <form type="lemma">
+        <orth>bergla</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">n.</gram>
+        <gram type="gender">f.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="bergla.1">
+        <cit type="trans">
+            <quote>crutch</quote>
         </cit>
         <cit type="example">
-            <quote></quote>
+            <quote>Hoditi mora z berglami.</quote>
             <cit type="trans">
-                <quote></quote>
+                <quote>She has to walk with crutches.</quote>
             </cit>
         </cit>
     </sense>
 </entry>
-<entry xml:id="">
+<entry xml:id="beriberi">
     <form type="lemma">
-        <orth></orth>
+        <orth>beriberi</orth>
     </form>
     <gramGrp>
-        <gram type="pos">.</gram>
-        <gram type="gender">.</gram>
+        <gram type="pos">n.</gram>
+        <gram type="gender">m.</gram>
         <gram type="number">sg.</gram>
     </gramGrp>
-    <sense xml:id=".1">
-        <usg type="dom"></usg>
+    <sense xml:id="beriberi.1">
+        <usg type="dom">Med.</usg>
         <cit type="trans">
-            <quote></quote>
+            <quote>thiamine deficiency</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="berilen">
+    <form type="lemma">
+        <orth>berilen</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">adj.</gram>
+        <gram type="gender">m.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="berilen.1">
+        <cit type="trans">
+            <quote>reader</quote>
         </cit>
         <cit type="example">
-            <quote></quote>
+            <quote>berilni izsek</quote>
             <cit type="trans">
-                <quote></quote>
+                <quote>reader section</quote>
             </cit>
         </cit>
     </sense>
 </entry>
-<entry xml:id="">
+<entry xml:id="berilo">
     <form type="lemma">
-        <orth></orth>
+        <orth>berilo</orth>
     </form>
     <gramGrp>
-        <gram type="pos">.</gram>
-        <gram type="gender">.</gram>
+        <gram type="pos">n.</gram>
+        <gram type="gender">n.</gram>
         <gram type="number">sg.</gram>
     </gramGrp>
-    <sense xml:id=".1">
-        <usg type="dom"></usg>
+    <sense xml:id="berilo.1">
         <cit type="trans">
-            <quote></quote>
+            <quote>reader</quote>
+            <quote>literary school-book</quote>
         </cit>
         <cit type="example">
-            <quote></quote>
+            <quote>prvo berilo</quote>
             <cit type="trans">
-                <quote></quote>
+                <quote>primer</quote>
+            </cit>
+        </cit>
+    </sense>
+    <sense xml:id="berilo.2">
+        <cit type="trans">
+            <quote>reading material</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="berivka">
+    <form type="lemma">
+        <orth>berivka</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">n.</gram>
+        <gram type="gender">f.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="berivka.1">
+        <cit type="trans">
+            <quote>young lettuce</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="berivo">
+    <form type="lemma">
+        <orth>berivo</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">n.</gram>
+        <gram type="gender">n.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="berivo.1">
+        <cit type="trans">
+            <quote>reading material</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="berljiv">
+    <form type="lemma">
+        <orth>berljiv</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">adj.</gram>
+        <gram type="gender">m.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="berljiv.1">
+        <cit type="trans">
+            <quote>readable</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="berljivost">
+    <form type="lemma">
+        <orth>berljivost</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">n.</gram>
+        <gram type="gender">f.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="berljivost.1">
+        <cit type="trans">
+            <quote>readability</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="bermuda">
+    <form type="lemma">
+        <orth>bermuda</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">adj.</gram>
+    </gramGrp>
+    <sense xml:id="bermuda.1">
+        <cit type="example">
+            <quote>bermuda hlače</quote>
+            <cit type="trans">
+                <quote>Bermuda shorts</quote>
+                <quote>walk shorts</quote>
+                <quote>dress shorts</quote>
             </cit>
         </cit>
     </sense>
 </entry>
-<entry xml:id="">
+<entry xml:id="bermude">
     <form type="lemma">
-        <orth></orth>
+        <orth>bermude</orth>
+    </form>
+    <form type="variant">
+        <orth>bermudke</orth>
     </form>
     <gramGrp>
-        <gram type="pos">.</gram>
-        <gram type="gender">.</gram>
+        <gram type="pos">n.</gram>
+        <gram type="gender">f.</gram>
+        <gram type="number">pl.</gram>
+    </gramGrp>
+    <sense xml:id="bermude.1">
+        <usg type="register">colloq.</usg>
+        <cit type="trans">
+            <quote>Bermuda shorts</quote>
+            <quote>walk shorts</quote>
+            <quote>dress shorts</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="bermudski">
+    <form type="lemma">
+        <orth>bermudski</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">adj.</gram>
+        <gram type="gender">m.</gram>
         <gram type="number">sg.</gram>
     </gramGrp>
-    <sense xml:id=".1">
-        <usg type="dom"></usg>
+    <sense xml:id="bermudski.1">
         <cit type="trans">
-            <quote></quote>
+            <quote>Bermuda</quote>
         </cit>
         <cit type="example">
-            <quote></quote>
+            <quote>bermudski trikotnik</quote>
             <cit type="trans">
-                <quote></quote>
+                <quote>Bermuda Triangle</quote>
             </cit>
         </cit>
     </sense>
 </entry>
-<entry xml:id="">
+<entry xml:id="bernardinec">
     <form type="lemma">
-        <orth></orth>
+        <orth>bernardinec</orth>
     </form>
     <gramGrp>
-        <gram type="pos">.</gram>
-        <gram type="gender">.</gram>
+        <gram type="pos">n.</gram>
+        <gram type="gender">m.</gram>
         <gram type="number">sg.</gram>
     </gramGrp>
-    <sense xml:id=".1">
-        <usg type="dom"></usg>
+    <sense xml:id="bernardinec.1">
         <cit type="trans">
-            <quote></quote>
+            <quote>monk of St. Bernard</quote>
         </cit>
+    </sense>
+    <sense xml:id="bernardinec.2">
+        <cit type="trans">
+            <quote>St. Bernard (dog)</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="bernardinski">
+    <form type="lemma">
+        <orth>bernardinski</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">adj.</gram>
+        <gram type="gender">m.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="bernardinski.1">
+        <cit type="trans">
+            <quote>St. Bernard</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="bersa">
+    <form type="lemma">
+        <orth>bersa</orth>
+    </form>
+    <form type="variant">
+        <orth>birsa</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">n.</gram>
+        <gram type="gender">f.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="bersa.1">
+        <cit type="trans">
+            <quote>wine mould</quote>
+        </cit>
+    </sense>
+    <sense xml:id="bersa.2">
+        <cit type="trans">
+            <quote>cream of tartar</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="bersast">
+    <form type="lemma">
+        <orth>bersast</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">adj.</gram>
+        <gram type="gender">m.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="bersast.1">
         <cit type="example">
-            <quote></quote>
+            <quote>bersasto vino</quote>
             <cit type="trans">
-                <quote></quote>
+                <quote>spoiled wine</quote>
             </cit>
         </cit>
     </sense>
 </entry>
-<entry xml:id="">
+<entry xml:id="bersati_se">
     <form type="lemma">
-        <orth></orth>
+        <orth>bersati se</orth>
     </form>
     <gramGrp>
-        <gram type="pos">.</gram>
-        <gram type="gender">.</gram>
-        <gram type="number">sg.</gram>
+        <gram type="pos">v.</gram>
     </gramGrp>
-    <sense xml:id=".1">
-        <usg type="dom"></usg>
-        <cit type="trans">
-            <quote></quote>
-        </cit>
+    <sense xml:id="bersati_se.1">
         <cit type="example">
-            <quote></quote>
+            <quote>Vino se bersa.</quote>
             <cit type="trans">
-                <quote></quote>
+                <quote>The wine is spoiling.</quote>
             </cit>
         </cit>
     </sense>
 </entry>
-<entry xml:id="">
+<entry xml:id="bes.1">
     <form type="lemma">
-        <orth></orth>
+        <orth>bes</orth>
     </form>
     <gramGrp>
-        <gram type="pos">.</gram>
-        <gram type="gender">.</gram>
+        <gram type="pos">n.</gram>
+        <gram type="gender">m.</gram>
         <gram type="number">sg.</gram>
     </gramGrp>
-    <sense xml:id=".1">
+    <sense xml:id="bes.1.1">
+        <usg type="dom">Myth.</usg>
+        <cit type="trans">
+            <quote>Bies</quote>
+            <quote>bes</quote>
+            <quote>evil spirit</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="bes.2">
+    <form type="lemma">
+        <orth>bes</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">n.</gram>
+        <gram type="gender">m.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="bes.2.1">
         <usg type="dom"></usg>
         <cit type="trans">
-            <quote></quote>
+            <quote>fury</quote>
+            <quote>rage</quote>
         </cit>
         <cit type="example">
-            <quote></quote>
+            <quote>Popadel jih je bes.</quote>
             <cit type="trans">
-                <quote></quote>
+                <quote>They got in a rage.</quote>
             </cit>
         </cit>
     </sense>
 </entry>
-<entry xml:id="">
+<entry xml:id="beseda">
     <form type="lemma">
-        <orth></orth>
+        <orth>beseda</orth>
     </form>
     <gramGrp>
-        <gram type="pos">.</gram>
-        <gram type="gender">.</gram>
+        <gram type="pos">n.</gram>
+        <gram type="gender">f.</gram>
         <gram type="number">sg.</gram>
     </gramGrp>
-    <sense xml:id=".1">
-        <usg type="dom"></usg>
+    <sense xml:id="beseda.1">
         <cit type="trans">
-            <quote></quote>
+            <quote>word</quote>
+        </cit>
+    </sense>
+    <sense xml:id="beseda.2">
+        <cit type="trans">
+            <quote>word</quote>
+            <quote>promise</quote>
         </cit>
         <cit type="example">
-            <quote></quote>
+            <quote>dati besedo</quote>
             <cit type="trans">
-                <quote></quote>
+                <quote>to give one's word</quote>
+            </cit>
+        </cit>
+        <cit type="example">
+            <quote>prelomiti besedo</quote>
+            <cit type="trans">
+                <quote>to break one's word</quote>
+            </cit>
+        </cit>
+    </sense>
+    <sense xml:id="beseda.3">
+        <cit type="trans">
+            <quote>speaking</quote>
+            <quote>talking</quote>
+        </cit>
+        <cit type="example">
+            <quote>Beseda mu teče gladko.</quote>
+            <cit type="trans">
+                <quote>He talks fluently.</quote>
+            </cit>
+        </cit>
+        <cit type="example">
+            <quote>seči v besedo</quote>
+            <cit type="trans">
+                <quote>to interrupt one's speech</quote>
             </cit>
         </cit>
     </sense>
 </entry>
-<entry xml:id="">
+<entry xml:id="besedavelj">
     <form type="lemma">
-        <orth></orth>
+        <orth>besedavelj</orth>
     </form>
     <gramGrp>
-        <gram type="pos">.</gram>
-        <gram type="gender">.</gram>
+        <gram type="pos">n.</gram>
+        <gram type="gender">m.</gram>
         <gram type="number">sg.</gram>
     </gramGrp>
-    <sense xml:id=".1">
-        <usg type="dom"></usg>
+    <sense xml:id="besedavelj.1">
+        <usg type="register">pejor.</usg>
         <cit type="trans">
-            <quote></quote>
+            <quote>talkative person</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="beseden">
+    <form type="lemma">
+        <orth>beseden</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">adj.</gram>
+        <gram type="gender">m.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="beseden.1">
+        <cit type="trans">
+            <quote>verbal</quote>
         </cit>
         <cit type="example">
-            <quote></quote>
+            <quote>besedni zaklad</quote>
             <cit type="trans">
-                <quote></quote>
+                <quote>vocabulary</quote>
             </cit>
         </cit>
     </sense>
 </entry>
-<entry xml:id="">
+<entry xml:id="besedilen">
     <form type="lemma">
-        <orth></orth>
+        <orth>besedilen</orth>
     </form>
     <gramGrp>
-        <gram type="pos">.</gram>
-        <gram type="gender">.</gram>
+        <gram type="pos">adj.</gram>
+        <gram type="gender">m.</gram>
         <gram type="number">sg.</gram>
     </gramGrp>
-    <sense xml:id=".1">
-        <usg type="dom"></usg>
+    <sense xml:id="besedilen.1">
         <cit type="trans">
-            <quote></quote>
+            <quote>textual</quote>
         </cit>
         <cit type="example">
-            <quote></quote>
+            <quote>besedilna datoteka</quote>
             <cit type="trans">
-                <quote></quote>
+                <quote>text file</quote>
             </cit>
         </cit>
     </sense>
 </entry>
-<entry xml:id="">
+<entry xml:id="besedilo">
     <form type="lemma">
-        <orth></orth>
+        <orth>besedilo</orth>
     </form>
     <gramGrp>
-        <gram type="pos">.</gram>
-        <gram type="gender">.</gram>
+        <gram type="pos">n.</gram>
+        <gram type="gender">n.</gram>
         <gram type="number">sg.</gram>
     </gramGrp>
-    <sense xml:id=".1">
-        <usg type="dom"></usg>
+    <sense xml:id="besedilo.1">
         <cit type="trans">
-            <quote></quote>
-        </cit>
-        <cit type="example">
-            <quote></quote>
-            <cit type="trans">
-                <quote></quote>
-            </cit>
+            <quote>text</quote>
+            <quote>wording</quote>
         </cit>
     </sense>
 </entry>
-<entry xml:id="">
+<entry xml:id="besedisce">
     <form type="lemma">
-        <orth></orth>
+        <orth>besedišče</orth>
+    </form>
+    <form type="variant">
+        <orth>besedje</orth>
     </form>
     <gramGrp>
-        <gram type="pos">.</gram>
-        <gram type="gender">.</gram>
+        <gram type="pos">n.</gram>
+        <gram type="gender">n.</gram>
         <gram type="number">sg.</gram>
     </gramGrp>
-    <sense xml:id=".1">
-        <usg type="dom"></usg>
+    <sense xml:id="besedisce.1">
         <cit type="trans">
-            <quote></quote>
-        </cit>
-        <cit type="example">
-            <quote></quote>
-            <cit type="trans">
-                <quote></quote>
-            </cit>
+            <quote>vocabulary</quote>
+            <quote>lexicon</quote>
+            <quote>word-stock</quote>
         </cit>
     </sense>
 </entry>
-<entry xml:id="">
+<entry xml:id="besediti">
     <form type="lemma">
-        <orth></orth>
+        <orth>besediti</orth>
+    </form>
+    <form type="variant">
+        <orth>besedovati</orth>
     </form>
     <gramGrp>
-        <gram type="pos">.</gram>
-        <gram type="gender">.</gram>
-        <gram type="number">sg.</gram>
+        <gram type="pos">v.</gram>
     </gramGrp>
-    <sense xml:id=".1">
-        <usg type="dom"></usg>
+    <sense xml:id="besediti.1">
         <cit type="trans">
-            <quote></quote>
-        </cit>
-        <cit type="example">
-            <quote></quote>
-            <cit type="trans">
-                <quote></quote>
-            </cit>
+            <quote>to go on at length</quote>
         </cit>
     </sense>
 </entry>
-<entry xml:id="">
+<entry xml:id="besediti_se">
     <form type="lemma">
-        <orth></orth>
+        <orth>besediti se</orth>
     </form>
     <gramGrp>
-        <gram type="pos">.</gram>
-        <gram type="gender">.</gram>
+        <gram type="pos">v.</gram>
+    </gramGrp>
+    <sense xml:id="besediti_se.1">
+        <usg type="geo">dial.</usg>
+        <cit type="trans">
+            <quote>to argue</quote>
+            <quote>to quarrel</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="besednik">
+    <form type="lemma">
+        <orth>besednik</orth>
+    </form>
+    <form type="variant">
+        <orth>besednica</orth>
+        <gramGrp>
+            <gram type="gender">f.</gram>
+        </gramGrp>
+    </form>
+    <gramGrp>
+        <gram type="pos">n.</gram>
+        <gram type="gender">m.</gram>
         <gram type="number">sg.</gram>
     </gramGrp>
-    <sense xml:id=".1">
+    <sense xml:id="besednik.1">
+        <cit type="trans">
+            <quote>spokesperson</quote>
+            <quote>representative</quote>
+        </cit>
+    </sense>
+    <sense xml:id="besednik.2">
+        <cit type="trans">
+            <quote>speaker</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="besednjak">
+    <form type="lemma">
+        <orth>besednjak</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">n.</gram>
+        <gram type="gender">m.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="besednjak.1">
+        <cit type="trans">
+            <quote>vocabulary</quote>
+            <quote>lexicon</quote>
+            <quote>word-stock</quote>
+        </cit>
+    </sense>
+    <sense xml:id="besednjak.2">
+        <cit type="trans">
+            <quote>dictionary</quote>
+            <quote>lexicon</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="besedolomen">
+    <form type="lemma">
+        <orth>besedolomen</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">adj.</gram>
+        <gram type="gender">m.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="besedolomen.1">
+        <usg type="style">lit.</usg>
+        <cit type="trans">
+            <quote>treacherous</quote>
+            <quote>perfidious</quote>
+        </cit>
+    </sense>
+</entry>
+<entry xml:id="besedolomstvo">
+    <form type="lemma">
+        <orth>besedolomstvo</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">n.</gram>
+        <gram type="gender">n.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="besedolomstvo.1">
         <usg type="dom"></usg>
         <cit type="trans">
-            <quote></quote>
+            <quote>treachery</quote>
+            <quote>oathbreaking</quote>
         </cit>
-        <cit type="example">
-            <quote></quote>
-            <cit type="trans">
-                <quote></quote>
-            </cit>
+    </sense>
+</entry>
+<entry xml:id="besedotvorje">
+    <form type="lemma">
+        <orth>besedotvorje</orth>
+    </form>
+    <gramGrp>
+        <gram type="pos">n.</gram>
+        <gram type="gender">n.</gram>
+        <gram type="number">sg.</gram>
+    </gramGrp>
+    <sense xml:id="besedotvorje.1">
+        <cit type="trans">
+            <quote>word formation</quote>
         </cit>
     </sense>
 </entry>
